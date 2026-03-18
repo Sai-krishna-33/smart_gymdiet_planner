@@ -1,0 +1,100 @@
+Food,Calories,Protein,Fat,Carbs,Fiber
+White Rice,130,2.4,0.3,28,0.4
+Brown Rice,111,2.6,0.9,23,1.8
+Fried Rice,250,6,8,35,2
+Biryani Chicken,290,15,12,35,2
+Biryani Veg,220,6,8,32,3
+Chapati,120,3,1,20,2
+Paratha,260,5,10,35,3
+Poori,300,4,15,35,2
+Idli,39,2,0.2,8,0.5
+Dosa,168,4,7,21,1
+Masala Dosa,250,6,10,30,2
+Upma,190,5,6,30,2
+Poha,130,3,3,23,2
+Sambar,80,4,2,10,3
+Dal Tadka,150,9,5,20,5
+Rajma,140,9,1,25,6
+Chole,210,10,6,30,7
+Paneer Butter Masala,300,10,25,10,1
+Palak Paneer,230,11,18,8,2
+Tofu Curry,180,12,10,8,2
+Chicken Curry,240,27,14,4,1
+Butter Chicken,300,25,20,5,1
+Grilled Chicken,165,31,3.6,0,0
+Fried Chicken,320,20,22,10,1
+Chicken Tikka,220,27,10,3,1
+Fish Curry,200,22,10,5,0
+Grilled Fish,150,25,5,0,0
+Prawns Fry,220,20,12,5,0
+Egg Boiled,78,6,5,0.6,0
+Egg Omelette,154,10,12,1,0
+Scrambled Eggs,150,11,11,2,0
+Milk Whole,60,3.2,3.3,5,0
+Milk Skimmed,35,3.4,0.1,5,0
+Curd,98,11,4,3,0
+Buttermilk,40,3,1,4,0
+Paneer,265,18,20,1.2,0
+Cheese Slice,113,7,9,1,0
+Butter,717,0.9,81,0.1,0
+Ghee,900,0,100,0,0
+Apple,52,0.3,0.2,14,2.4
+Banana,89,1.1,0.3,23,2.6
+Orange,47,0.9,0.1,12,2.4
+Mango,60,0.8,0.4,15,1.6
+Pineapple,50,0.5,0.1,13,1.4
+Watermelon,30,0.6,0.2,8,0.4
+Papaya,43,0.5,0.3,11,1.7
+Grapes,69,0.6,0.2,18,0.9
+Guava,68,2.6,1,14,5.4
+Oats,389,17,7,66,10
+Cornflakes,357,8,0.4,84,3
+Bread White,265,9,3.2,49,2.7
+Bread Brown,247,13,4.2,41,7
+Peanut Butter,588,25,50,20,6
+Jam,250,0.3,0.1,65,1
+Honey,304,0.3,0,82,0
+Almonds,579,21,50,22,12
+Cashews,553,18,44,30,3
+Walnuts,654,15,65,14,7
+Pistachios,562,20,45,28,10
+Sunflower Seeds,584,21,51,20,9
+Pumpkin Seeds,559,30,49,11,6
+Boiled Potato,87,2,0.1,20,2.2
+Sweet Potato,86,1.6,0.1,20,3
+French Fries,312,3,15,41,3.8
+Veg Salad,50,2,0.5,10,3
+Fruit Salad,90,1,0.3,22,3
+Protein Shake,120,24,1,3,1
+Mass Gainer,400,20,10,60,2
+Cheeseburger,295,17,12,30,2
+Veg Burger,250,10,8,35,3
+Pizza Cheese,266,11,10,33,2
+Pizza Veg,230,9,8,30,3
+Pizza Chicken,280,13,11,32,2
+Sandwich Veg,200,8,6,28,2
+Sandwich Chicken,250,15,8,30,2
+Grilled Sandwich,260,10,9,30,2
+Noodles,190,6,7,26,2
+Hakka Noodles,220,7,9,30,2
+Chowmein,240,8,10,32,2
+Pasta White Sauce,300,10,15,35,2
+Pasta Red Sauce,250,9,8,40,3
+Macaroni,220,7,6,35,2
+Ice Cream Vanilla,207,3.5,11,24,1
+Ice Cream Chocolate,220,4,12,26,1
+Chocolate Cake,350,5,15,50,2
+Brownie,400,6,20,50,3
+Biscuits,450,6,15,70,3
+Tea,30,1,1,5,0
+Coffee,5,0.3,0,1,0
+Green Tea,2,0,0,0,0
+Soft Drink,150,0,0,39,0
+Orange Juice,45,0.7,0.2,10,0.2
+Apple Juice,46,0.1,0.1,11,0.2
+Coconut Water,19,0.7,0.2,4,1.1
+Lassi Sweet,150,5,6,20,0
+Lassi Salted,100,4,4,10,0
+Boiled Corn,96,3.4,1.5,21,2.4
+Sprouts,100,9,1,18,4
+Tofu,76,8,4.8,1.9,0.3
